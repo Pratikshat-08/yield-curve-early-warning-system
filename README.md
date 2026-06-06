@@ -46,7 +46,7 @@ Yield curve inversions defined as periods in which the 10Y–2Y spread was negat
 A normal yield curve reflects positive long-run growth expectations and an upward-sloping term structure. When monetary tightening causes short-term rates to rise above long-term rates, investors are effectively pricing in expectations of slower future growth, lower forward interest rates, and elevated recession risk. While the yield curve remained positively sloped for 83.5% of the sample, inversion episodes consistently preceded major economic downturns — reinforcing their practical value as an early-warning signal.
 
 Extreme Observations-
-4.1 Deepest Inversion — March 1980
+4.1 Deepest Inversion-March 1980
 The most pronounced yield curve inversion in the sample occurred in March 1980, when the 10Y–2Y spread fell to −2.14 percentage points. This observation coincided with an NBER-designated recession and the peak of Federal Reserve Chairman Paul Volcker's aggressive monetary tightening campaign to combat double-digit inflation. Short-term interest rates surged sharply above long-term rates, producing one of the most severe yield curve inversions in modern U.S. economic history.
 The magnitude of this inversion suggests that the depth of an inversion may convey information not merely about the probability of recession, but about the intensity of the associated economic stress a distinction relevant to risk managers and ALM practitioners calibrating stress-test scenarios.
 4.2 Steepest Yield Curve - February 2010
