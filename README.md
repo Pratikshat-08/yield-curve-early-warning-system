@@ -69,9 +69,7 @@ The consistency of this signal across multiple business cycles each shaped by di
 # Conclusion
 This study provides robust empirical evidence that the 10Y–2Y U.S. Treasury yield spread is an effective leading indicator of economic recessions. Across 600 monthly observations spanning five decades, the yield curve demonstrated a consistent and economically meaningful relationship with future economic conditions.
 Yield curve inversions occurred prior to all major recessionary episodes in the sample. Statistical analysis confirmed a significant negative relationship between the yield spread and recession probability (logistic regression coefficient: −1.429). The comparison of pre-recession and non-recession periods revealed a spread differential of approximately one percentage point, while lead-time analysis established that inversions provided an average of 11 months of advance warning — a meaningful horizon for institutional risk management.
-The results demonstrate that the yield curve is not merely a reflection of prevailing market conditions, but a forward-looking instrument encoding market expectations about future growth, monetary policy, and economic risk. Its strong and historically consistent relationship with recessionary episodes makes it a valuable tool for economic forecasting, risk assessment, and strategic decision-making within Treasury and Asset-Liability Management functions.
-
-# References
+The results demonstrate that the yield curve is not merely a reflection of prevailing market conditions, but a forward-looking instrument encoding market expectations about future growth, monetary policy, and economic risk.
 Federal Reserve Economic Data (FRED)
 NBER recession dating
 
